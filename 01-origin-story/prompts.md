@@ -23,7 +23,10 @@ prompt library built from your own questions.
 ---
 
 ### 1.
+What's contradictory or missing, not just in the company documents, but across Rook's wiki, its database, and the files in my repo?
 
 ### 2.
+let's define the core issue first - what do you think it is based on initial findings?
 
 ### 3.
+I like your problem statement, however, it seems to me that it captures the cause not the root of the problem. I feel that the problem is a bit deeper. what do you think?
